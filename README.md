@@ -1,3 +1,4 @@
 # TestingTools
 
-A TestingTool to help Testers
+A TestingTool to help Testers.
+ 
